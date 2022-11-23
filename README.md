@@ -1,7 +1,7 @@
 
 # Covid19 Tracker Site
 
-This project is made on JavaScript with the help of COVID19 API.
+This project is made on VueJS with the help of COVID19 API.
 
 Simple tracker for Covid-19 cases and deaths
 
