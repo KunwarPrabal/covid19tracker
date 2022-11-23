@@ -1,7 +1,7 @@
 
-# </> Covid Tracker
+# Covid19 Tracker Site
 
-This project is made on VueJS with the help of COVID19 API.
+This project is made on JavaScript with the help of COVID19 API.
 
 Simple tracker for Covid-19 cases and deaths
 
@@ -34,11 +34,7 @@ almost every corner of world is under this disease
 
 ### Project link - [Click Here](https://covid-counts-84421.web.app/)
 
-## [Clone Repository]
-```
-git clone https://github.com/<your user name>/Covid19--Tracker.git
-cd Covid19--Tracker.git
-```
+
 
 ## [Project setup]
 ```
@@ -50,7 +46,4 @@ npm install
 npm run serve
 ```
 
-## [Contribute]
-
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
 
