@@ -34,6 +34,8 @@ almost every corner of world is under this disease
 
 ### Project link - [Click Here](https://covid-counts-84421.web.app/)
 
+### API link - [Click Here](https://data.covid19india.org/)
+
 
 
 ## [Project setup]
